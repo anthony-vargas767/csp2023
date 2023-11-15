@@ -1,0 +1,15 @@
+h1{
+  text-align: center;
+   font-family: 'WartKnifeRegular';
+   font-weight: bold;
+   font-style: normal;
+}
+p {
+   font-family: 'FyodorBoldCondensedOblique';
+   font-weight: bold;
+   font-style: italic;
+  color: #144fb5;
+}
+body{
+  background: #ebbec1;
+}
